@@ -1,6 +1,6 @@
 # Online-Sales-Dashboard-PowerBI
 
-A Power BI dashboard showing data of Online Sales Dataset.
+This project use Power BI Desktop to demonstrate the use of Power BI to create a business dashboard demonstrating E-commerce sales data.
 
 ## Data Source
 Online Sales Dataset - Popular Marketplace Data
