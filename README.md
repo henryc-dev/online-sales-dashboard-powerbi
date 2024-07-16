@@ -3,8 +3,9 @@
 A Power BI dashboard showing data of Online Sales Dataset.
 
 ## Data Source
+Online Sales Dataset - Popular Marketplace Data
 
-Kaggle: https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
+Link: https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
 
 ## Dasboard URL
 
