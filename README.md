@@ -12,6 +12,6 @@ Online Sales Dataset - Popular Marketplace Data from Kaggle
 
 ![alt text](https://github.com/hcheung-dev/Online-Sales-Dashboard-PowerBI/blob/main/Online_sales_dashboard.png)
 
-## Dasboard
+## Dashboard
 
 - https://app.powerbi.com/view?r=eyJrIjoiMTIxY2FkMGUtZTcwZi00MjRmLTgxNTAtOWVhNWU3MGY5Njg0IiwidCI6IjE3YTE1OTc2LWYzYmUtNGY4Ny1hY2RlLTQ2NmU4NjMwM2Y3ZiIsImMiOjF9
