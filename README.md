@@ -1,6 +1,8 @@
 # Online-Sales-Dashboard-PowerBI
 
-This project use Power BI Desktop to demonstrate the use of Power BI to create a business dashboard demonstrating E-commerce sales data.
+This project use Power BI Desktop to demonstrate the use of Power BI to create a report dashboard demonstrating E-commerce sales data. It mainly answers two business questions:
+1. Region and product category that makes most revenue over time
+2. Top sales product by month and region
 
 ## Data Source
 Online Sales Dataset - Popular Marketplace Data
