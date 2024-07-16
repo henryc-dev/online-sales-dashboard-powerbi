@@ -10,6 +10,8 @@ Online Sales Dataset - Popular Marketplace Data from Kaggle
 
 - https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
 
+## Preview
+
 ![alt text](https://github.com/hcheung-dev/Online-Sales-Dashboard-PowerBI/blob/main/Online_sales_dashboard.png)
 
 ## Dashboard
