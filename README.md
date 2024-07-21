@@ -4,7 +4,7 @@ This project uses Power BI Desktop to demonstrate the use of Power BI to create 
 1. Region and product category that makes most revenue over time
 2. Top sales product by month and region
 
-## Data Source
+## Data
 
 Online Sales Dataset - Popular Marketplace Data from Kaggle
 
